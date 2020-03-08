@@ -1,0 +1,38 @@
+.transport {
+    
+    margin: 0;
+    padding: 0;
+}
+.swiper-container { 
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 50px;
+    height: 100vh;
+}
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    background-color: #000;
+    color: cyan;
+    text-align: center;;
+}
+img {
+    height: 350px;
+    width: 300px;;
+}
+
+h3 {
+    font-size: 1em;
+}
+
+.fire {
+    background:url(../../images/happy3.gif);
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-position: center left; */
+    background-blend-mode: darken;
+}

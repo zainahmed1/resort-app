@@ -1,0 +1,58 @@
+{
+  "name": "final-pro",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
+    "@fortawesome/react-fontawesome": "^0.1.7",
+    "antd": "^3.25.3",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "bootstrap": "^4.3.1",
+    "gsap": "^3.2.2",
+    "jquery": "^3.4.1",
+    "jquery-plugin": "0.0.0-ignored",
+    "main-js": "^0.1.6",
+    "modernizr": "^3.8.0",
+    "parallax-js": "^3.1.0",
+    "particlesjs": "^2.2.3",
+    "ractive": "^1.3.8",
+    "react": "^16.11.0",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.11.0",
+    "react-flippy": "^0.1.5",
+    "react-fontawesome": "^1.7.1",
+    "react-id-swiper": "^2.4.0",
+    "react-native-parallax-swiper": "^1.1.7",
+    "react-particles-js": "^2.7.0",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^3.3.0",
+    "swipe-js": "^2.2.0",
+    "swiper": "^5.2.1",
+    "three": "^0.111.0",
+    "vue": "^2.6.10",
+    "vue-react": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
